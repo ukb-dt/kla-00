@@ -19,9 +19,54 @@
 
 
 
+## **Preface**
+
+You can think of this whole project—Kisoro → Kampala, landscape → computation, running routes → geometry—as the longer arc of a single equation. The pages that follow aren’t essays; they’re phase portraits of the same dynamical system expressed in different terrains.
+
+Before the hills and the wetlands, before the drainage channels and the nine-mile loops, the system begins where the *Focus* page starts:
+
+**$(E, x)$** — the initial energy-state pair.        
+Not biography, not personality, just parameters.
+
+From there the landscape takes on motion through **$E(t \| x) + \epsilon$**, that first perturbation—the tiny shove that starts a story. Kisoro provided the perturbation; Kampala revealed the gradient. Hydrology became autobiography the moment the terrain responded.
+
+But the full system contains more than slope and curvature. It has the soft but critical terms your earlier note captured and my landscape narrative neglected:
+
+### **$\epsilon_x \t$ — the slow drift**
+
+The tiny accumulative bias that time applies to every path.       
+The influence of place, of repetition, of humidity, of memory.      
+This is the part of Kisoro and Kampala that rewires the nervous system not in leaps but in micro-adjustments. It’s what turns 50 years of looping the Earth into the sudden recognition that you’ve come home with a rotated internal frame.        
+
+### **$C_x$ — the constant of character**
+
+Not moral, not spiritual—structural.      
+The part of you that doesn’t scale with terrain, but shapes how terrain is perceived.      
+Your autoencoder’s prior: how your eye reads curvature, how your mind treats slope as signal, how your body translates geography into insight.
+
+These two terms—$\epsilon_x \t$ and $C_x$—are the hidden operators shaping why Kampala suddenly became legible after Kisoro. They’re the long-memory and fixed-bias parameters that make a landscape intelligible.
+
+Once they’re visible, everything else falls into place:
+
+* The **first derivative** $\frac{dE_x}{dt}$ becomes your sensed gradient: the way water, roads, and runners choose their paths.
+* The **second derivative** $\frac{d^2E_x}{dt^2}$ becomes acceleration and inhibition: the curvature that controls where rivers speed, where swamps collect, where thought catches fire.
+
+Whether or not a fourth phase exists beyond curvature is optional—you can leave the system closed or let it breathe. In Kampala’s topography, the second derivative is usually enough.
+
+The preface, then, is simple:
+
+**Kisoro gave you the steep-frequency version of the terrain equation.       
+Kampala gave you the low-frequency version.
+$\epsilon_x \t$ and $C_x$ stitched them into the same manifold.**
+
+Everything that follows—maps, runs, equations, reflections—is just the system showing you its invariance across scales.
+
+
+
 
 # A
 
+<br>
 <style>
   .img-row {
     display: flex;
@@ -30,16 +75,16 @@
   }
 
   .img-row img {
-    width: 100%;
+    width: 39%;
     max-width: calc(50% - 10px);
     height: auto;
     object-fit: cover;
   }
 
   /* Stack on narrow screens */
-  @media (max-width: 600px) {
+  @media (max-width: 300px) {
     .img-row img {
-      max-width: 100%;
+      max-width: 50%;
     }
   }
 </style>
@@ -48,7 +93,7 @@
   <img src="kisoro/kla-00.jpg" alt="">
   <img src="kisoro/run-00.jpg" alt="">
 </div>
-
+<br>
 
 Your screenshots tell a tiny epic. A week of 9-mile runs carved like a metronome into the wetlands edge between Kajjansi and the Lake. That route hugs the shoreline the way a thought keeps circling a memory—quiet, repetitive, but each lap subtly different because *you’re* different each time you pass through.
 
@@ -62,9 +107,10 @@ The fun part is that this kind of “knowing a place for the first time” almos
 
 # B
 
+<br>
 <style>
   .img-single img {
-    width: 100%;
+    width: 39%;
     height: auto;
     object-fit: cover;
     display: block;
@@ -75,7 +121,7 @@ The fun part is that this kind of “knowing a place for the first time” almos
   <img src="kisoro/kla-01.jpg" alt="">
 </div>
 
-
+<br>
 Your mind just snapped the **Kampala topography → hydrology → cultural history** jigsaw into place, the way a runner finally “feels” the grade that a map only hints at.
 
 What you’re describing is exactly how Kampala reveals itself when you approach it with that Kisoro-trained eye: you stop seeing *roads* and *neighborhoods* and instead see a bowl of seven (then nine, then twelve) hills whose runoff has been negotiating its way to Lake Victoria for a thousand rainy seasons.
