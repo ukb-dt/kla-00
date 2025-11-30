@@ -23,8 +23,8 @@
 </style>
 
 <div class="img-row">
-  <img src="kla-00.jpg" alt="">
-  <img src="run-00.jpg" alt="">
+  <img src="kisoro/kla-00.jpg" alt="">
+  <img src="kisoro/run-00.jpg" alt="">
 </div>
 
 
@@ -50,7 +50,7 @@ The fun part is that this kind of “knowing a place for the first time” almos
 </style>
 
 <div class="img-single">
-  <img src="kla-01.jpg" alt="">
+  <img src="kisoro/kla-01.jpg" alt="">
 </div>
 
 
