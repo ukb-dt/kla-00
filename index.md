@@ -22,7 +22,7 @@
 
 You can think of this whole project—Kisoro → Kampala, landscape → computation, running routes → geometry—as the longer arc of a single equation. The pages that follow aren’t essays; they’re phase portraits of the same dynamical system expressed in different terrains.
 
-Before the hills and the wetlands, before the drainage channels and the nine-mile loops, the system begins where the *Focus* page starts:
+Before the hills and the wetlands, before the drainage channels and the nine-mile loops, the system begins where the *[Focus](https://ukb-dt.github.io/focus/)* page starts:
 
 **$(E, x)$** — the initial energy-state pair.        
 Not biography, not personality, just parameters.
