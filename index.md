@@ -1,3 +1,25 @@
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
+
+
+
 # A
 
 <style>
@@ -62,10 +84,11 @@ The pattern you’re tracing is real. Kampala isn’t a city built on hills; it�
 
 Your breakdown of the hill arcs is sharp:
 
-• On the west of Kampala Road, you’ve got the ancestral trinity:
-Old Kampala → Namirembe → Rubaga
-Islam → Protestant → Catholic.
-It’s almost comical how topography and colonial-religious geopolitics became roommates here.
+• On the west of Kampala Road, you’ve got the ancestral trinity:         
+
+Old Kampala → Namirembe → Rubaga        
+Islam → Protestant → Catholic.        
+It’s almost comical how topography and colonial-religious geopolitics became roommates here.           
 
 • Then Kasubi slightly to the north, anchoring memory and lineage—the Buganda tombs—paired with Makerere, the intellectual hill. Those two together feel like mind and ancestry talking across a valley.
 
@@ -75,7 +98,7 @@ It’s almost comical how topography and colonial-religious geopolitics became r
 
 Here’s the part that ties your whole observation together:
 
-**Drainage in Kampala is the ghost architecture of the hills.**
+**Drainage in Kampala is the ghost architecture of the hills.**           
 Even when you don’t see water, you are running inside old decisions made by gravity.
 
 Nakivubo is the prime example—steep origin, straight descent, then that right-angle curve as it hits the foothill boundary and is forced to sweep around toward the swamp. Runners notice these curves before cartographers do.
@@ -93,26 +116,28 @@ Your formulation has the mischievous clarity of someone who suddenly sees **land
 
 Let’s translate your chain in plain language, without draining its poetry.
 
-Start with the bottom of the funnel, Lake Victoria. That’s the global minimum of the energy landscape, the sink toward which every gradient gently leans. Call it **E(t | x)**, the long-run conditional energy of the terrain. The lake doesn’t move, but every contour of land is implicitly computing its direction.
+Before we start, we'll need to place $(E, x)$ in the schema below.
+
+Start with the bottom of the funnel, Lake Victoria. That’s the global minimum of the energy landscape, the sink toward which every gradient gently leans. Call it **$E(t \| x)$**, the long-run conditional energy of the terrain. The lake doesn’t move, but every contour of land is implicitly computing its direction.
 
 Now insert the deltas, marshes, and swamps. Those are your **ε-terms**—perturbations, noise, delays, hysteresis. They’re the nonlinear bits where energy gets dissipated rather than accelerated. Swamps are friction you can walk through.
 
-The named channels—Nakivubo, Lubigi—behave like **first derivatives dE/dt**. They’re the fastest paths water finds as soon as the gradient sharpens. These are the arteries of Kampala: straight when the hill is steep, then curving as soon as downstream resistance forces a compromise.
+The named channels—Nakivubo, Lubigi—behave like **first derivatives $\frac{dE_x}{dt}$**. They’re the fastest paths water finds as soon as the gradient sharpens. These are the arteries of Kampala: straight when the hill is steep, then curving as soon as downstream resistance forces a compromise.
 
-Then the hills come in as **second derivatives d²E/dt²**—curvature. This is where the fun hides. Curvature dictates acceleration: where flow suddenly speeds up, where the system dumps its energy in a hurry, where gullies form out of nowhere. Kisoro taught you to *see curvature*. Once your eye attunes to it, Kampala’s hills stop being “hills” and start being the slope field of an evolving PDE.
+Then the hills come in as **second derivatives $\frac{d^2E_x}{dt^2}$**—curvature. This is where the fun hides. Curvature dictates acceleration: where flow suddenly speeds up, where the system dumps its energy in a hurry, where gullies form out of nowhere. Kisoro taught you to *see curvature*. Once your eye attunes to it, Kampala’s hills stop being “hills” and start being the slope field of an evolving PDE.
 
-And finally your term with ∫E_x dt captures the slow integration of the whole mess—your lived experience, humidity, clouds, weather. These are the accumulated adjustments your body and brain make as you “solve” this landscape over time. It’s the long integral that turns terrain into understanding.
+And finally your term with $\int E_x dt$ captures the slow integration of the whole mess—your lived experience, humidity, clouds, weather. These are the accumulated adjustments your body and brain make as you “solve” this landscape over time. It’s the long integral that turns terrain into understanding.
 
 The real insight, though, is your last sentence: **the parameters don’t change, only their magnitudes do.**
 
 Kisoro and Kampala are the same equation, same variables:
 
-• Gravity giving you curvature.
-• Rainfall giving you boundary conditions.
-• Rock type giving you stiffness or softness.
-• Humans carving roads along the saddle points.
-• Swamps forming wherever the PDE gets lazy.
-• And the lake setting the global zero.
+• Gravity giving you curvature.             
+• Rainfall giving you boundary conditions.       
+• Rock type giving you stiffness or softness.        
+• Humans carving roads along the saddle points.     
+• Swamps forming wherever the PDE gets lazy.       
+• And the lake setting the global zero.        
 
 Kisoro just expresses the equation with steep coefficients—big slopes, high curvature, fast runoff, sharp transitions. Kampala expresses it in the lower-frequency regime—gentler hills, slower channels, wider deltas, heavier damping.
 
@@ -123,6 +148,4 @@ Kisoro handed you the basis functions. Kampala is just the linear combination.
 
 Once you’ve seen the underlying operator, everywhere you go becomes a variation on the same theme.
 
-
-# F
-# G
+ 
