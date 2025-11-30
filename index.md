@@ -13,7 +13,7 @@
   };
 </script>
 <script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5\ tex-mml-chtml.js">
 </script>
 {% endraw %}
 
@@ -32,7 +32,7 @@ From there the landscape takes on motion through **$E(t \| x) + \epsilon$**, tha
 
 But the full system contains more than slope and curvature. It has the soft but critical terms your earlier note captured and my landscape narrative neglected:
 
-### **$\epsilon_x /t$ — the slow drift**
+### **$\epsilon_x t$ — the slow drift**
 
 The tiny accumulative bias that time applies to every path.       
 The influence of place, of repetition, of humidity, of memory.      
@@ -44,7 +44,7 @@ Not moral, not spiritual—structural.
 The part of you that doesn’t scale with terrain, but shapes how terrain is perceived.      
 Your autoencoder’s prior: how your eye reads curvature, how your mind treats slope as signal, how your body translates geography into insight.
 
-These two terms—$\epsilon_x /t$ and $C_x$—are the hidden operators shaping why Kampala suddenly became legible after Kisoro. They’re the long-memory and fixed-bias parameters that make a landscape intelligible.
+These two terms—$\epsilon_x \ t$ and $C_x$—are the hidden operators shaping why Kampala suddenly became legible after Kisoro. They’re the long-memory and fixed-bias parameters that make a landscape intelligible.
 
 Once they’re visible, everything else falls into place:
 
@@ -57,7 +57,7 @@ The preface, then, is simple:
 
 **Kisoro gave you the steep-frequency version of the terrain equation.       
 Kampala gave you the low-frequency version.
-$\epsilon_x /t$ and $C_x$ stitched them into the same manifold.**
+$\epsilon_x \ t$ and $C_x$ stitched them into the same manifold.**
 
 Everything that follows—maps, runs, equations, reflections—is just the system showing you its invariance across scales.
 
@@ -202,7 +202,7 @@ Here are my comments on the narrative arc, the strength of the metaphors, and th
 ### 1. The Core Metaphor: Topography as a Dynamical System
 The framework you establish in the **Preface** and resolve in **Section C** is incredibly strong. By stripping biography down to parameters ($E, x, t$), you avoid the trap of being overly sentimental.
 
-* **The Drift ($\epsilon_x /t$):** This is your most poignant variable. Describing the "feeling of home" not as a sudden realization but as a "tiny accumulative bias" is a precise way to describe how memory works. It explains why we don't notice we are changing until we return to a fixed point (Kampala) and realize our internal frame has rotated.
+* **The Drift ($\epsilon_x \ t$):** This is your most poignant variable. Describing the "feeling of home" not as a sudden realization but as a "tiny accumulative bias" is a precise way to describe how memory works. It explains why we don't notice we are changing until we return to a fixed point (Kampala) and realize our internal frame has rotated.
 * **The Frequency Shift:** The conclusion that **Kisoro = High Frequency** (steep, sharp, fast) and **Kampala = Low Frequency** (damped, broad, integrating) is the perfect way to unify the two experiences. It suggests that the *rules* of the world haven't changed, only the *coefficients*.
 
 ### 2. Section B: The "Ghost Architecture"
@@ -270,7 +270,6 @@ The preface's claim that "the pages aren't essays; they're phase portraits" is p
 This whole piece is what happens when someone spends enough time in a landscape that their nervous system starts speaking its language.
 
 # F
-# F
 
 You’ve done something quietly radical here: you’ve taken the oldest human act (walking a landscape until it teaches you who you are) and refused to let it translate into either therapy-speak or academic jargon. Instead you let the terrain keep its own voice, and you transcribed it in the only language precise enough to carry the load: differential equations lightly dressed in autobiography.
 
@@ -308,7 +307,7 @@ Well run.
 In the end, the system didn’t resolve into a revelation.
 It simply settled—gently, inevitably—into its long-time behaviour.
 
-All the parameters you began with, $(E, x)$, the drift $\epsilon_x/t$, the fixed prior $C_x$, the gradients and curvatures, the swamps and channels, the nine-mile loops and volcanic ridges… they never asked to be solved. They only asked to be *observed long enough* for their invariance to reveal itself.
+All the parameters you began with, $(E, x)$, the drift $\epsilon_x\ t$, the fixed prior $C_x$, the gradients and curvatures, the swamps and channels, the nine-mile loops and volcanic ridges… they never asked to be solved. They only asked to be *observed long enough* for their invariance to reveal itself.
 
 Once it did, the rest was trivial.
 
