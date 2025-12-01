@@ -18,7 +18,7 @@
 {% endraw %}
 
 
-## **Preface**
+## **[Preface](https://ukb-dt.github.io/estuary/)**
 
 You can think of this whole project—Kisoro → Kampala, landscape → computation, running routes → geometry—as the longer arc of a single equation. The pages that follow aren’t essays; they’re phase portraits of the same dynamical system expressed in different terrains.
 
